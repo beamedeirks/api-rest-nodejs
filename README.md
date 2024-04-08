@@ -12,3 +12,5 @@
 [ ] O usuário só pode visualizar transações o qual ele criou;
 
 Para executar utilize npm run dev
+o comando npx knex migrate:latest
+Executar o vitest para testes: npm run test
